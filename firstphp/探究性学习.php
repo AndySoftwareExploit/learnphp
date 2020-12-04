@@ -8,3 +8,12 @@ $bold = '<b>叶少</b>';
 echo $bold . " Love" . PHP_EOL;
 $font2 = "<i>Luo&nbsp;Shengyun</i>";
 echo $font2 . PHP_EOL;
+
+//输出 <fieldset>
+$fieldset = 
+'<fieldset>
+    <p>&nbsp;Very&nbsp;much</p>
+</fieldset>
+';
+echo $fieldset . PHP_EOL;
+
